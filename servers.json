@@ -1,9 +1,16 @@
 [
     {
       "color": "FF0000",
-      "dopname": "(X2 ДОНАТ)",
+      "dopname": "1",
       "maxonline": 1000,
       "name": "SMOKE MOBILE",
-      "online": 1
+      "online": 0
+    },
+        {
+      "color": "FF0000",
+      "dopname": "2",
+      "maxonline": 1000,
+      "name": "SMOKE MOBILE",
+      "online": 0
     }
   ]
